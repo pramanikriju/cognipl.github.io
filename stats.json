@@ -13,8 +13,8 @@
       "component---src-templates-article-page-js-cf533288dfed1b11942f.js.map"
     ],
     "path---blog": [
-      "path---blog-4ddf986be00d01de16e0.js",
-      "path---blog-4ddf986be00d01de16e0.js.map"
+      "path---blog-f4c53ee1bc4db626df50.js",
+      "path---blog-f4c53ee1bc4db626df50.js.map"
     ],
     "component---src-templates-tags-js": [
       "component---src-templates-tags-js-9a29fd6877da2060f814.js",
@@ -37,10 +37,10 @@
       "path---pricing-c4977228f685b2f5e712.js.map"
     ],
     "cms": [
-      "cms-d66662c30d0882bb7852.js",
+      "cms-6d3806c0f336f6d5a721.js",
       "build-js-styles.css",
       "cms.css",
-      "cms-d66662c30d0882bb7852.js.map",
+      "cms-6d3806c0f336f6d5a721.js.map",
       "build-js-styles.css.map",
       "cms.css.map"
     ],
@@ -53,8 +53,8 @@
       "path---blog-lorem-ipsum-dolor-situm-f6404745c95169ae4ff7.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-51132bee4f170ca82ceb.js",
-      "component---src-layouts-index-js-51132bee4f170ca82ceb.js.map"
+      "component---src-layouts-index-js-1eaeec2f154189b498ff.js",
+      "component---src-layouts-index-js-1eaeec2f154189b498ff.js.map"
     ],
     "path---index": [
       "path---index-ebc5461162f1b8c9b7d1.js",
@@ -95,13 +95,13 @@
       "component---src-pages-tags-index-js-35752417f2703a47d7c9.js.map"
     ],
     "component---src-templates-home-page-js": [
-      "component---src-templates-home-page-js-70ecb7fe48374bba5e9d.js",
-      "component---src-templates-home-page-js-70ecb7fe48374bba5e9d.js.map"
+      "component---src-templates-home-page-js-de6ccac99951bd6ae4ef.js",
+      "component---src-templates-home-page-js-de6ccac99951bd6ae4ef.js.map"
     ],
     "app": [
-      "app-2098816f53383171c75c.js",
+      "app-227d35abf08c98e5df0f.js",
       "build-js-styles.css",
-      "app-2098816f53383171c75c.js.map",
+      "app-227d35abf08c98e5df0f.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [

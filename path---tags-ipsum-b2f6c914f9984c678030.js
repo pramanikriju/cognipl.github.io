@@ -1,2 +1,2 @@
-webpackJsonp([0xe968cc77cda],{438:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Cognition Initiatives"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog/lorem-ipsum-dolor-situm/"},frontmatter:{title:"Lorem Ipsum Dolor Situm"}}}]}},pathContext:{tag:"ipsum"}}}});
+webpackJsonp([0xe968cc77cda],{444:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Cognition Initiatives"}},allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/blog/lorem-ipsum-dolor-situm/"},frontmatter:{title:"Lorem Ipsum Dolor Situm"}}}]}},pathContext:{tag:"ipsum"}}}});
 //# sourceMappingURL=path---tags-ipsum-b2f6c914f9984c678030.js.map

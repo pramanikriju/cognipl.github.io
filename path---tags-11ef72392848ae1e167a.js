@@ -1,2 +1,2 @@
-webpackJsonp([55702396619907],{440:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Cognition Initiatives"}},allMarkdownRemark:{group:[{fieldValue:"ipsum",totalCount:1},{fieldValue:"lorem",totalCount:1}]}},pathContext:{}}}});
+webpackJsonp([55702396619907],{446:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Cognition Initiatives"}},allMarkdownRemark:{group:[{fieldValue:"ipsum",totalCount:1},{fieldValue:"lorem",totalCount:1}]}},pathContext:{}}}});
 //# sourceMappingURL=path---tags-11ef72392848ae1e167a.js.map
